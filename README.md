@@ -1,2 +1,2 @@
 # hello-world
-My education repository
+Repository for education

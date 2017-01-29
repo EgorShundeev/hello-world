@@ -1,2 +1,4 @@
 # hello-world
-Repository for education
+
+Hello folk!
+I'm a novice from Russia:) 
